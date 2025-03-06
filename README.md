@@ -9,6 +9,6 @@ At, last after completing the same procedure after filling all semster details a
 # Output Images
 The 5 png files represents the output for the given code.
 # References
-https://www.tutorialspoint.com/java/index.htm  I took the basics from the tutorial point and built the code with the help of Java Swings concept
+https://www.tutorialspoint.com/java/index.htm  I took the basics from the tutorialspoint and built the code with the help of Java Swings concept
 # Error Resolving
 Errors are solved using the AI(Chat Gpt).
